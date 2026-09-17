@@ -26,7 +26,7 @@ I'm especially interested in using data to solve **real-world problems** and con
 
 Welcome to my portfolio! Here you'll find projects covering **data analysis, machine learning, data visualization, and problem-solving**.
 
-🔗 **[View My Projects](https://github.com/khe09)**
+🔗 **[View My Portfolio](https://github.com/khe09/Portfolio)**
 
 ---
 
